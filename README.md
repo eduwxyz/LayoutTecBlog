@@ -1,4 +1,6 @@
 
+# Visualização 
+![image](https://github.com/DevShy/LayoutTecBlog/blob/main/tecblog.png)
 
 # Layout TecBlog
 
